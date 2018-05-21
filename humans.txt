@@ -1,0 +1,21 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+
+/* TEAM */
+
+	Creator: Asya Vee
+	Telegram: https://t.me/asyavee
+	Twitter: @thyme_suntea
+	Location: Moscow, Russia
+
+/* THANKS */
+
+	Blank Jakyll Theme: Garrett Boatman, Developer
+	Github: http://github.com/garrettboatman
+
+/* SITE */
+	Last update:2018/05/24
+	Language: Russian
+	Technology: HTML5, CSS3, Jekyll
+	IDE: Atom
