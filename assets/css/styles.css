@@ -6187,9 +6187,9 @@ a {
   color: #666;
   text-decoration: none;
   transition: all 0.2s ease-in-out;
-  border-bottom: 1px solid #80b2de;
+  border-bottom: 1px dashed #80b2de;
 }
 
 a:hover {
-  color: #337ab7;
+  color: #80b2de;
 }
