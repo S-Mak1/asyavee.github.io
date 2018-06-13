@@ -14,8 +14,20 @@
 	Blank Jakyll Theme: Garrett Boatman, Developer
 	Github: http://github.com/garrettboatman
 
+	Space.css,
+	Bettertext.css,
+	Hidden.css: Paul Radzkov, Designer and Developer
+	GitHub: https://github.com/paulradzkov
+
+	jquery-image-resize.js: Eric Juden, Developer
+	Web: https://ericjuden.com
+
+	Aleksandra Travkina for some refs and general inspiration
+	Web: https://milkleaks.ru/
+
 /* SITE */
-	Last update:2018/05/24
+	Last update:2018/06/12
 	Language: Russian
-	Technology: HTML5, CSS3, Jekyll
+	Technology: HTML5, CSS3, Jekyll, Sass, Pug
+	Images: Unsplash, Asya Vee
 	IDE: Atom
